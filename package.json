@@ -1,0 +1,23 @@
+{
+  "name": "airdrop-program-development-quest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhuwanSingh/airdrop-program-development-quest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhuwanSingh/airdrop-program-development-quest/issues"
+  },
+  "homepage": "https://github.com/BhuwanSingh/airdrop-program-development-quest#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.32.0"
+  }
+}
